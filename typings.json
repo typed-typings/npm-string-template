@@ -1,0 +1,7 @@
+{
+  "name": "string-template",
+  "main": "index.d.ts",
+  "files": [
+    "compile.d.ts"
+  ]
+}
